@@ -1,0 +1,98 @@
+{
+    "software_engineer": {
+        "Technical": [
+            "Explain the concept of 'Big O' notation and why it's important for algorithm analysis.",
+            "Describe the difference between a list and a set in Python and when you would use one over the other.",
+            "Walk me through the steps you would take to debug a memory leak in a production application."
+        ],
+        "Behavioral": [
+            "Tell me about a time you had a technical disagreement with a teammate. How was it resolved?",
+            "Describe the most challenging bug you've ever fixed. What was your process?"
+        ]
+    },
+    "sales_associate": {
+        "Situational": [
+            "A customer walks in and immediately complains about your store's prices being too high. How do you respond?",
+            "A product is out of stock, and the customer is very angry. What steps do you take to resolve the situation?"
+        ],
+        "Behavioral": [
+            "Tell me about a time you successfully handled a difficult or aggressive customer.",
+            "Describe a situation where you had to work with a sales target you thought was unrealistic. How did you approach it?"
+        ]
+    },
+    "aerospace_engineer": {
+        "Technical": [
+            "Explain the concept of flutter and how it is mitigated in wing design.",
+            "What is the difference between specific impulse (Isp) and thrust in rocket propulsion?",
+            "Describe the role of finite element analysis (FEA) in structural verification of spacecraft components."
+        ],
+        "Behavioral": [
+            "Tell me about a time you identified a flaw in a critical design phase. How did you handle communicating the risk?",
+            "Describe a complex system integration project you worked on and how you managed interface control documents."
+        ]
+    },
+    "data_analyst": {
+        "Technical": [
+            "Explain the difference between correlation and causation, and why it matters in analysis.",
+            "Walk me through the steps you take to clean a large, messy dataset.",
+            "When would you choose a bar chart over a scatter plot for data visualization?"
+        ],
+        "Behavioral": [
+            "Describe a time your analysis led to a counter-intuitive finding. How did you convince stakeholders?",
+            "Tell me about a project where you had to manage conflicting requirements from different business units."
+        ]
+    },
+    "retail_associate": {
+        "Situational": [
+            "How would you handle a customer who is trying to return an item without a receipt and past the return window?",
+            "A long line forms at your register. What is your strategy for keeping customers happy and the line moving efficiently?"
+        ],
+        "Behavioral": [
+            "Describe a time you went above and beyond for a customer.",
+            "Tell me about a time you received constructive criticism from a manager. How did you respond?"
+        ]
+    },
+    "marketing_manager": {
+        "Technical": [
+            "Explain the difference between SEO and SEM, and how they contribute to a full-funnel strategy.",
+            "Describe the key metrics you use to measure the success of a B2B content marketing campaign.",
+            "What are the pros and cons of A/B testing creative elements versus landing page experience?"
+        ],
+        "Behavioral": [
+            "Tell me about a campaign that underperformed. What was your root cause analysis and what did you change?",
+            "How do you prioritize marketing budget allocation between different channels like social media and email?"
+        ]
+    },
+    "financial_analyst": {
+        "Technical": [
+            "What is WACC (Weighted Average Cost of Capital) and how is it used in valuation?",
+            "Explain the three main financial statements and the relationship between them.",
+            "Describe a method for calculating the intrinsic value of a stock."
+        ],
+        "Behavioral": [
+            "Walk me through the steps you take to build a financial model from scratch.",
+            "Describe a time you had to deal with ambiguous or incomplete data while preparing a forecast."
+        ]
+    },
+    "ux_designer": {
+        "Technical": [
+            "What is the difference between low-fidelity and high-fidelity prototypes, and when do you use each?",
+            "Explain the concept of 'affordance' in UI design.",
+            "Describe your process for conducting usability testing and what metrics you track."
+        ],
+        "Behavioral": [
+            "Tell me about a time you received difficult feedback on a design. How did you iterate?",
+            "How do you balance user needs and technical constraints when designing a new feature?"
+        ]
+    },
+    "retail_store_manager": {
+        "Situational": [
+            "You notice inventory shrinkage is up 5% this month. What steps do you take to investigate and mitigate loss?",
+            "Two employees report to you with a conflict that is affecting the shift's productivity. How do you mediate?"
+        ],
+        "Behavioral": [
+            "Describe a time you successfully mentored a low-performing employee to improve their sales or service metrics.",
+            "How do you forecast staffing needs for major holidays or promotional events?"
+        ]
+    }
+}
